@@ -1,0 +1,147 @@
+P-111-222-333
+ACM Transactions on Algorithms
+ACM
+2005
+5
+10
+2
+P-222-333-111
+IEEE Transactions on Evolutionary Computation
+IEEE Computer Society
+1997
+1
+9
+3
+B-111-111-111
+Introduction to Java Programming
+Pearson
+2018
+10
+M. Savitch
+9876579310
+P-222-222-222
+IEEE Transactions on Computers
+IEEE Computer Society
+1952
+1
+8
+9
+B-222-111-111
+Programming and Data Structures in Java
+McGraw Hill
+2016
+5
+Brian Lang
+9878879310
+B-222-111-000
+Engineering Your Future
+Oxford
+2020
+2
+William Oakes, Lee Leone
+0190279265
+B-222-111-110
+Society, Ethics, and Technology
+Pearson
+2016
+10
+Morton Winston and Ralph Edelbach
+1133943551
+B-222-111-101
+Systems Engineering and Analysis
+Prentice Hall
+2010
+2
+Scott Fogler and Steven LeBlanc
+0132217250
+P-000-111-111
+IEEE Transactions on Learning Technologies
+IEEE Education Society
+2008
+1
+2
+6
+P-111-000-110
+IEEE Annals of History of Computing
+IEEE
+1979
+1
+10
+12
+B-000-000-111
+Introduction to C language
+Pearson
+2018
+5
+J. Smith
+1103324551
+B-222-000-111
+Introduction to C language
+Wiley
+2016
+2
+James Foster
+1203324661
+P-111-111-111
+IEEE Software
+IEEE Computer Society
+1983
+1
+5
+3
+B-333-333-333
+Data Science
+McGraw Hill
+2018
+5
+F. Franklin
+1122334455
+P-111-111-222
+IEEE Transactions on Fuzzy Systems
+IEEE Computer Society
+1993
+1
+5
+2
+B-111-123-301
+Computer Systems
+Pearson
+2016
+2
+Bryant and O'Hallaron
+0134092669
+B-111-321-111
+Absolute C++
+Pearson
+2016
+5
+Walter Savitch
+0133970787
+B-111-111-212
+Java Concepts
+Wiley
+2008
+1
+Cay Horstmann
+0470105559
+B-333-111-111
+ThinkerToys
+Ten Speed Press
+2006
+3
+Michael Michalko
+1580087735
+B-111-222-111
+Computer Architecture
+Morgan Kaufmann
+2019
+2
+Hennessy and Patterson
+0128119051
+B-111-221-121
+Problem Solving in C
+Pearson
+2016
+8
+Hanly and Koffman
+0134014898
